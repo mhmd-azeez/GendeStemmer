@@ -114,13 +114,6 @@ namespace GendeStemmer
                 }
             }
 
-
-
-            if (word.EndsWith("یی"))
-            {
-                score--;
-            }
-
             var minimumScore = 2;
 
             return score >= minimumScore;
