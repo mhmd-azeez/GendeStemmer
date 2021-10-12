@@ -1,4 +1,4 @@
-﻿﻿﻿# Gende Stemmer - گەندە ستێمەر
+# Gende Stemmer - گەندە ستێمەر
 Gende Stemmer is a grammatically ignorant stemmer for Sorani Kurdish. Our aim is to make its output predictable and consistent, but not necessarily grammatically correct.
 
 Why is this useful? It's useful for Full Text Searching indexing and other Information Retrieval (IR) tasks. It's useful to be able to stem both `سێوەکانیشتان` and `سێوێکی` back to `سێو`.
